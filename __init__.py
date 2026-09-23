@@ -1,0 +1,2 @@
+APP_NAME = "DNS AI"
+APP_VERSION = "2.0.0"
